@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg">
+  <title>Logo</title>
+  <g id="root" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <rect id="background" fill="#FFF" x="0" y="0" width="500" height="500"></rect>
+    <g id="Group-2" transform="translate(40.000000, 390.000000)">
+      <rect id="Rectangle-84" x="0" y="0" width="420" height="35"></rect>
+      <text id="captionText.primary" font-family="Righteous" font-size="25" font-weight="400" fill="#41245c" font-style="normal">
+        <tspan x="210" y="141.5"></tspan>
+      </text>
+    </g>
+    <path d="M325 184l150 0l-16 20l-134 0l0 -20zm0 25l100 0l-16 20l-84 0l0 -20zm0 25l50 0l-16 20l-34 0l0 -20z" id="shape.primary" fill="#41245c"></path>
+    <path d="M25 184l150 0l-16 20l-134 0l0 -20zm0 25l100 0l-16 20l-84 0l0 -20zm0 25l50 0l-16 20l-34 0l0 -20z" id="shape.primary" fill="#41245c" transform="translate(100.000000, 219.000000) scale(-1, 1) translate(-100.000000, -219.000000)"></path>
+    <path d="M250 289c38.66 0 70 -31.34 70 -70c0 -38.66 -31.34 -70 -70 -70c-38.66 0 -70 31.34 -70 70c0 38.66 31.34 70 70 70zm0 20c-49.706 0 -90 -40.294 -90 -90c0 -49.706 40.294 -90 90 -90c49.706 0 90 40.294 90 90c0 49.706 -40.294 90 -90 90z" id="shape.primary" fill="#41245c" fill-rule="nonzero"></path>
+    <g id="Group-3" transform="translate(210.000000, 180.000000)">
+      <rect id="Rectangle-88" x="0" y="0" width="80" height="80"></rect>
+      <text id="headerInitial_1.primary" font-family="Righteous" font-size="60" font-weight="400" fill="#41245c" font-style="normal">
+        <tspan x="20.920778274536133" y="61">S</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
